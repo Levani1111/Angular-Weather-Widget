@@ -12,11 +12,12 @@ This is a Weather-Widget that uses Angular 12 fetching data from the openweather
 
 ## Deployed
 
+* [netlify](https://app.netlify.com/)
 * https://angular-weather-widget.netlify.app/
 
 <hr/>
 
-## Created by Levani Papashvili @2021
+##### Created by Levani Papashvili @2021
 
 
 
