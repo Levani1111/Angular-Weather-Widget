@@ -12,7 +12,7 @@ This is a Weather-Widget that uses Angular 12 fetching data from the openweather
 
 ## Deployed
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* https://angular-weather-widget.netlify.app/
 
 <hr/>
 
